@@ -17,5 +17,5 @@ I am particularly interested in applying GIS to data analysis, automation, and A
 - Converted raw CSV data into GIS-ready format  
 - Designed workflow for QGIS visualization and spatial analysis  
 
-👉 [View Project](projects/python-gis-workflow/README.md)
+👉 👉 [View Project](https://github.com/Elusk-lab/gis-portfolio/tree/main/projects/python-gis-workflow)
 
